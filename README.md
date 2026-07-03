@@ -1,4 +1,4 @@
-# mscripts
+# Mscript
 > **Warning:** These scripts automate Minecraft actions. Use only on singleplayer or servers where automation is permitted. Using these on public or multiplayer servers may result in a ban.
 
 A collection of Python automation scripts for Minecraft using [Minescript](https://minescript.net/).
